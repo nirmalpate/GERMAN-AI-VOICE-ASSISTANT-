@@ -1,0 +1,1 @@
+# Synchronisiert Anruflogs zu Snowflake

@@ -1,0 +1,6 @@
+groq
+rank_bm25
+fastapi
+uvicorn[standard]
+python-multipart
+snowflake-connector-python
